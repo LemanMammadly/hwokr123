@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\homeworks\HWork\HWork\bin\Debug\netcoreapp3.1\HWork.exe
+\\Mac\Home\Desktop\homeworks\HWork\HWork\bin\Debug\netcoreapp3.1\HWork.deps.json
+\\Mac\Home\Desktop\homeworks\HWork\HWork\bin\Debug\netcoreapp3.1\HWork.runtimeconfig.json
+\\Mac\Home\Desktop\homeworks\HWork\HWork\bin\Debug\netcoreapp3.1\HWork.runtimeconfig.dev.json
+\\Mac\Home\Desktop\homeworks\HWork\HWork\bin\Debug\netcoreapp3.1\HWork.dll
+\\Mac\Home\Desktop\homeworks\HWork\HWork\bin\Debug\netcoreapp3.1\HWork.pdb
+\\Mac\Home\Desktop\homeworks\HWork\HWork\obj\Debug\netcoreapp3.1\HWork.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\homeworks\HWork\HWork\obj\Debug\netcoreapp3.1\HWork.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\homeworks\HWork\HWork\obj\Debug\netcoreapp3.1\HWork.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\homeworks\HWork\HWork\obj\Debug\netcoreapp3.1\HWork.AssemblyInfo.cs
+\\Mac\Home\Desktop\homeworks\HWork\HWork\obj\Debug\netcoreapp3.1\HWork.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\homeworks\HWork\HWork\obj\Debug\netcoreapp3.1\HWork.dll
+\\Mac\Home\Desktop\homeworks\HWork\HWork\obj\Debug\netcoreapp3.1\HWork.pdb
+\\Mac\Home\Desktop\homeworks\HWork\HWork\obj\Debug\netcoreapp3.1\HWork.genruntimeconfig.cache
